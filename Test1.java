@@ -46,7 +46,7 @@ public class Test1 {
 		}
 		*****************************************************************************************/
 		
-		/***************method1: get linkedlist and node from arguments of main.*****************/ 
+		/******************method2: get linkedlist and node from keyboard.***********************/ 
 		//get LinkedList from keyboard.
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("The program is running now!!!");
